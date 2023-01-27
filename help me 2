@@ -1,0 +1,8 @@
+ #include <iostream>
+ #include <vector>
+ using namespace std;
+ int main(){
+ 	int n = -2;
+ 	cout << n;
+ 	return n;
+ }
